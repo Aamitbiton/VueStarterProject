@@ -1,19 +1,12 @@
-# YourNameProject
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+complete vue starter project with:
+router
+vuex
+vuetify
+firebase
+firestore
+webpack
+nav-bar
+authentication with firebase + save the user in vuex & local storage
+sass-loader
+vue-awesome-notifications
+<@By AmitBiton 'Eden-Tech'>
